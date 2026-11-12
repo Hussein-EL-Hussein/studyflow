@@ -1,5 +1,9 @@
 # StudyFlow
 
+Live website: https://studyflow-rose-seven.vercel.app
+
+Source code: https://github.com/Hussein-EL-Hussein/studyflow
+
 StudyFlow is a simple study planner for students. It helps students keep their tasks, course names, and due dates in one place.
 
 ## What we built
@@ -109,3 +113,4 @@ Screenshots have not been added yet. Before submission, add screenshots of Home,
 ## Project status
 
 The project currently runs locally. The report, screenshots, GitHub repository link, and live website link still need to be prepared or verified before submission.
+
